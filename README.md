@@ -26,8 +26,8 @@ ulepszenia aby wiecej klikac, i szybciej rozbudować stronę)
 * dodatkowo pod iloscia punktów gracza bedzie licznik ILE PUNKTÓW / 10 kliknięć
   - gracz zdobywa 5 punktów za kliknięcie pod licznikiem bedzie 50 PKT / 10 KLIKNIĘC
 * przed upgradem bedzie tez value w punktach jak i w klikach
-  <div align='center'>
-  
+  <div align='center' flex-direction='column'>
+    
   -[ULEPSZENIE #2]
   -[ ARTICLE | <ILE RAZY TRZEBA KLIKNAC ABY JE ZDOBYC> | <ILE PUNKTÓW KOSZTUJE> ]
   -[ BONUS DO KLIKNIĘĆ: 2 ]
