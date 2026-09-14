@@ -11,9 +11,9 @@ ulepszenia aby wiecej klikac, i szybciej rozbudować stronę)
 
   <div align='center'>
   
-  -               [ULEPSZENIE #2]
-  -                 [ ARTICLE | 50 KLIKNIĘĆ | 500 MONET ]
-  -                 [ BONUS DO KLIKNIĘĆ: 2 ]
+  -[ULEPSZENIE #2]
+  -[ ARTICLE | 50 KLIKNIĘĆ | 500 MONET ]
+  -[ BONUS DO KLIKNIĘĆ: 2 ]
 
   </div>
   
@@ -28,9 +28,9 @@ ulepszenia aby wiecej klikac, i szybciej rozbudować stronę)
 * przed upgradem bedzie tez value w punktach jak i w klikach
   <div align='center'>
   
-  -            [ULEPSZENIE #2]
-  -         [ ARTICLE | <ILE RAZY TRZEBA KLIKNAC ABY JE ZDOBYC> | <ILE PUNKTÓW KOSZTUJE> ]
-  -        [ BONUS DO KLIKNIĘĆ: 2 ]
+  -[ULEPSZENIE #2]
+  -[ ARTICLE | <ILE RAZY TRZEBA KLIKNAC ABY JE ZDOBYC> | <ILE PUNKTÓW KOSZTUJE> ]
+  -[ BONUS DO KLIKNIĘĆ: 2 ]
 
   </div>
 * celem gracza jest skończenie całej strony poprzez kupywanie ulepszeń
