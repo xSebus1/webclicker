@@ -9,7 +9,7 @@ ulepszenia aby wiecej klikac, i szybciej rozbudować stronę)
 * każde ulepszenia dodaje elementy na stronie
   - po załadowaniu strony mamy text
 
-  <div align='center'>
+  <div align='center' flex-direction='column'>
   
   -[ULEPSZENIE #2]
   -[ ARTICLE | 50 KLIKNIĘĆ | 500 MONET ]
