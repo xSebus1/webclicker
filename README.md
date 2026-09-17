@@ -18,20 +18,14 @@ ulepszenia aby wiecej klikac, i szybciej rozbudować stronę)
   </div>
   
 * dane zapisywanie są jako COOKIES
-  - [KLIKNIĘCIA | AKTUALNY KROK ULEPSZENIA (MAMY ULEPSZENIE #8 TO COOKIE UPGRADES ZWRACA 8) na tej podstawie przeniesie nas tez do 8 podstrony
-* strona jest odswiezana za kazdym updatem danych
-  - [ ZDOBYCIE KLIKNIĘCIA | ZBUDOWANIE ELEMENTU ]
-* ulepszanie bedzie przenosilo gracza na 2 strone
-  - [ ZBUDOWANIE ELEMENTU (ODBLOKOWANIE ULEPSZENIA) PRZENOSI NAS NA PODSTRONE GDZIE ULEPSZENIE JEST JUŻ ODBLOKOWANE JAKO ELEMENT STRONY ]
+  - Dla kliknięć: nazwa: kliknięcia wartosc w int
+  - Dla ulepszeń nazwa: (element jaki doda ulepszenie np ulepszenie to footer nazwa cookie to bedzie footer) bedzie to bool
+* strona jest odswiezana za kazda aktulizacja danych
+  - Zdobycie klikniecia
+  - Zbudowanie Ulepszenia
+* ulepszanie bedzie odblokowywało element:
+  - pokazywało go na stronie
 * dodatkowo pod iloscia punktów gracza bedzie licznik ILE PUNKTÓW / 10 kliknięć
   - gracz zdobywa 5 punktów za kliknięcie pod licznikiem bedzie 50 PKT / 10 KLIKNIĘC
-* przed upgradem bedzie tez value w punktach jak i w klikach
-  <div align='center' flex-direction='column'>
-    
-  -[ULEPSZENIE #2]
-  -[ ARTICLE | <ILE RAZY TRZEBA KLIKNAC ABY JE ZDOBYC> | <ILE PUNKTÓW KOSZTUJE> ]
-  -[ BONUS DO KLIKNIĘĆ: 2 ]
-
-  </div>
 * celem gracza jest skończenie całej strony poprzez kupywanie ulepszeń
   - Każde ulepszenie doda coś na strone np: nav, aside, image, footer.
