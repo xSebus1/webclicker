@@ -12,7 +12,7 @@ ulepszenia aby wiecej klikac, i szybciej rozbudować stronę)
   <div align='center' flex-direction='column'>
   
   -[ULEPSZENIE #2]
-  -[ ARTICLE | 50 KLIKNIĘĆ | 500 MONET ]
+  -[ ARTICLE | 500 MONET ]
   -[ BONUS DO KLIKNIĘĆ: 2 ]
 
   </div>
