@@ -1,0 +1,41 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    display: flex;
+    width: 100vw;
+    background-color: black;
+    height: fit-content;
+    text-align: center;
+    color: white;
+    justify-content: center;
+}
+
+.nav_p_not_unlocked {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    height: 100%;
+    background-color: rgb(36, 35, 35);
+    opacity: 0.3;
+    color: white;
+    font-size: large;
+}
+
+nav > button{
+    width: 20%;
+    height: 40%;
+}
+
+header > section {
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+}
